@@ -23,6 +23,12 @@ module.exports = {
     react: {
       version: '18.2',
     },
+    'import/resolver': {
+      alias: {
+        extensions: ['.js', '.jsx'],
+        map: [['@', '.']],
+      },
+    },
   },
   plugins: ['react-refresh'],
   rules: {
