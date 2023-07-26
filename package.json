@@ -12,9 +12,11 @@
     "build:css": "postcss src/styles/tailwind.scss -o src/styles/index.scss "
   },
   "dependencies": {
+    "i18next": "^23.3.0",
     "node-sass": "^9.0.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
