@@ -1,4 +1,4 @@
-```
+
 # Vite React Tailwind SCSS Storybook i18n Boilerplate
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -96,4 +96,3 @@ Happy coding! If you have any questions or need further assistance, feel free to
 
 **Maintainer:** Bao Ho
 **Email:** baohocredev@gmail.com
-```
