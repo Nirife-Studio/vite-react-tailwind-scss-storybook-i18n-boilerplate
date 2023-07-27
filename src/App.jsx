@@ -5,7 +5,7 @@ function App() {
   const [count, setCount] = useState(0);
   return (
     <>
-      <Button content="hello"></Button>
+      <Button content='Hello'></Button>
       <div className="bg-teal-300"></div>
       <h1>Vite + React</h1>
       <div className="card">

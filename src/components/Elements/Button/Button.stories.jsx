@@ -1,3 +1,4 @@
+import "@/styles/tailwind.scss"
 import Button from "./Button";
 
 export default {
