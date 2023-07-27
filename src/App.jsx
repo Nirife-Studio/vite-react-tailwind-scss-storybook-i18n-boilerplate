@@ -1,6 +1,5 @@
-import { useState } from 'react';
-import reactLogo from './assets/react.svg';
-import Button from './components/Elements/Button/Button';
+import { useState } from 'react'; 
+import Button from '@/components/Elements/Button/Button';
 
 function App() {
   const [count, setCount] = useState(0);
